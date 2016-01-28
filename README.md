@@ -1,2 +1,2 @@
 # scroll_choir
-This is a program for scrolling.
+This is a program helping with the  scrolling in choir sheets.
