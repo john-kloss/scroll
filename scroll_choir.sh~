@@ -14,6 +14,7 @@ read chosenSong
 if [ "$chosenSong" = "1" ]; then
 	scrollArray2=(3 11 15 10 17 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 16 11 17 10 16 12 16 0)
 	scrollArray=(2 10 14 10 15 10 15 10 15 10 15 10 15 10 15 10 15 10 15 10 15 10 15 10 15 9 16 10 15 10 15 10 15 10 15 10 15 10 15 0) #fs
+	scrollArray1=(1 12 12 13 12 12 13 12 12 13 12 0) #dual sides
 fi
 
 if [ "$chosenSong" = "2" ]; then
@@ -21,6 +22,7 @@ if [ "$chosenSong" = "2" ]; then
 fi
 
 if [ "$chosenSong" = "3" ]; then
+	scrollArray1=(6 9 10 10 10 10 10 10 10 8 0) # dual rows
 	scrollArray=(2 12 10 8 8 9 8 8 10 7 8 9 8 8 9 8 8 9 7 0) #not fullscreen
 fi
 
