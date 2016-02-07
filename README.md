@@ -1,6 +1,6 @@
 # scroll_choir
 
-This is a program automates the scrolling in choir sheets.
+This is a program that automates the scrolling in choir sheets.
 
 Requirements:
 
