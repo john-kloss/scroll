@@ -21,7 +21,7 @@ if [ "$chosenSong" = "2" ]; then
 fi
 
 if [ "$chosenSong" = "3" ]; then
-	scrollArray=(1 12 9 7 7 9 7 7 9 7 7 9 7 7 9 7 7 8 7 0)
+	scrollArray=(1 12 9 7 7 9 7 7 9 7 7 9 7 7 9 7 7 8 6 0)
 	scrollArrayOld=(2 12 10 8 8 9 8 8 10 7 8 9 8 8 9 8 8 9 7 0) #not fullscreen
 fi
 
