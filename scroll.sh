@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 scrollArray=(0)
 declare -i position=0
